@@ -1,5 +1,5 @@
 # django-image-upload
-Code for the CodingGear tutorial on how to upload images with Django.
+Code for the CodingGear tutorial on [how to upload images with Django](https://codinggear.blog/how-to-upload-images-in-django/).
 
 ## Screenshots
 
